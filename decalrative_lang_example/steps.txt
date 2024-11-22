@@ -1,0 +1,6 @@
+downloaded antlr4 java jars
+
+for python target installed dependency
+pip install antlr4-python3-runtime
+
+java -jar C:\antlr-4.13.2-complete.jar -Dlanguage=Python3 .\SQL_SUBSET.g4
