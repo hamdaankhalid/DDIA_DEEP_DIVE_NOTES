@@ -1,4 +1,4 @@
-# Data Structures That Power Your Database
+# Data Structures That Power Your Database (Hash Indexes)
 
 - Fundamental level ->  how we can store the data that we’re given, and how we can find it again when we’re asked for it.
 
